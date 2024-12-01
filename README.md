@@ -13,3 +13,8 @@
 - [카카오 테크 부트캠프](https://ktb.goorm.io/) 1th ( 2024.07.01 - 2024.12.27 )
 
 <br/>   
+
+### 🍞 언어
+(https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+<br/>  
