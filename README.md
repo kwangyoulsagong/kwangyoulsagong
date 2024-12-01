@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=2C5F7A&height=70&section=header&text=사공광열&fontSize=20&fontColor=2C5F7A)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=2C5F7A&height=70&section=header&text=사공광열&fontSize=20&fontColor=E6F3FF)
 
 
 ### 🍞 동아리
