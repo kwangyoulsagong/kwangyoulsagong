@@ -30,4 +30,5 @@
 
 <br/>  
 ### 🍞 관심 기술
-micro frontend, bff
+- micro frontend
+- backend for frontend
