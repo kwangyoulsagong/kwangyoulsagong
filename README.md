@@ -32,5 +32,5 @@
 
 ### 🍞 관심 기술
 
-- micro frontend
-- backend for frontend
+- <b>Micro Frontend Architecture</b>
+- <b>Backend for Frontend</b>
